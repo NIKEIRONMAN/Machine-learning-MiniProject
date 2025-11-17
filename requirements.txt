@@ -5,3 +5,6 @@ joblib
 streamlit
 plotly
 matplotlib
+opencv-python
+opencv-python-headless
+
