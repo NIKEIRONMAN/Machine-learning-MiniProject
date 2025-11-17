@@ -1,5 +1,10 @@
 # ML-Assisted Metastructure Designer
 
+
+## 🔗 Live Demo
+https://nikeironman-machine-learning-miniproject-appapp-g6xbjs.streamlit.app/
+
+
 **Machine learning pipeline for additive manufacturing metastructure design**
 
 Based on recent advances in ML-assisted design workflows that combine:
