@@ -1,0 +1,14 @@
+{
+  "model_type": "Random Forest (Quick)",
+  "target": "Youngs_Modulus",
+  "input_shape": [
+    28,
+    28
+  ],
+  "n_features": 784,
+  "r2_score": 0.7540268787995298,
+  "mae": 0.9216361781874832,
+  "rmse": 1.4078596786345556,
+  "training_samples": 5000,
+  "test_samples": 1000
+}
