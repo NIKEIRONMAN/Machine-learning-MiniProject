@@ -1,13 +1,8 @@
-# ensure numpy is installed first (OpenCV wheels depend on it)
 numpy
-
-# ML & app libs
 pandas
 scikit-learn
 joblib
 streamlit
 plotly
 matplotlib
-
-# Use headless OpenCV only (no GUI libs on Streamlit)
 opencv-python-headless
